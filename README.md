@@ -15,3 +15,17 @@
 -Create Redux Store with userSlice
 -Implemented Sign out
 -Update profile
+-BugFix- Sign Up user Display name and profile picture update
+-BugFix- if the user is not logged in then redirect/browser to login page and vise-versa
+-Unsubscribed the onAuthStateChanged callback
+-Add hardcoded values to the constants file
+-Register TMDB API & create an app & get access token
+-Get Data from TMDB now playing movies list api
+-Custom hook for Now Playing Movies
+-Create movieSlice
+-update store with movies data
+-Planning for MainContainer & secondary container
+-fetch data for Trailer video
+-update store with trailer video data
+-Embedded the Youtube video and make it autoplay and mute
+-Tailwind classes to make MainContainer look awesome
