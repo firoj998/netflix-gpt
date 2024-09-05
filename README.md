@@ -38,3 +38,6 @@
 -useGetPopularMovies custom hook
 -useGetTopratedMovies custom hook
 -useGetUpcomingMovies custom hook
+-GPT search page
+-GPT search Bar
+- Multi- language feature in our app
